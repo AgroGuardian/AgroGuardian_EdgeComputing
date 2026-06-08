@@ -67,9 +67,9 @@ Para testar o projeto no ambiente de simulação:
 ---
 
 ## 👥 Integrantes do Grupo
-* [cite_start]**Isabella Yogui Kohara** - RM569777 [cite: 3]
-* [cite_start]**Júlia Santiago Mateini** - RM561315 [cite: 4]
-* [cite_start]**Marcella Pinheiro Silva** - RM569457 [cite: 5]
+* **Isabella Yogui Kohara** - RM569777 
+* **Júlia Santiago Mateini** - RM561315 
+* **Marcella Pinheiro Silva** - RM569457 
 
 ---
 *Global Solution 2026 - FIAP - 1ESPG* 
